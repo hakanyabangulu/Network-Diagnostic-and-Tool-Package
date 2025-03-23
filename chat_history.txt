@@ -1,0 +1,8 @@
+[2025-03-20 20:52:29] INFO: Connecting to localhost port 9900
+[2025-03-20 20:52:29] INFO: Sending Test message. This will be echoed
+[2025-03-20 20:52:29] INFO: Received  message: Test message. This will be echoed
+[2025-03-20 20:52:29] INFO: Closing connection to the server
+[2025-03-20 20:52:58] INFO: Connected to chat server
+[2025-03-20 20:53:04] INFO: Server: Selamlar
+[2025-03-20 20:53:09] INFO: Client: Selamlar
+[2025-03-20 20:53:29] INFO: Chat terminated by Server

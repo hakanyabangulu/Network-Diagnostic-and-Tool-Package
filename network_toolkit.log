@@ -1,0 +1,564 @@
+2025-03-11 21:46:42,055 - INFO - Host name: Yabangülü
+2025-03-11 21:46:42,055 - INFO - Error getting machine info: table logs has no column named type
+2025-03-11 21:46:58,529 - INFO - Echo server listening on localhost:65432
+2025-03-11 21:46:58,529 - INFO - Echo server error: table logs has no column named type
+2025-03-11 21:47:02,371 - INFO - Echo client error: timed out
+2025-03-11 21:47:03,740 - INFO - Echo client error: timed out
+2025-03-11 21:47:05,043 - INFO - SNTP Time: Tue Mar 11 21:47:08 2025
+2025-03-11 21:47:05,045 - INFO - SNTP error: table logs has no column named type
+2025-03-11 21:47:12,851 - INFO - Secure Chat Server started on localhost:65432
+2025-03-11 21:47:12,853 - INFO - Chat server error: table logs has no column named type
+2025-03-11 21:47:17,185 - INFO - Chat client error: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-03-11 21:50:47,631 - INFO - Host name: Yabangülü
+2025-03-11 21:50:47,631 - INFO - IP address: 192.168.1.22
+2025-03-11 21:50:48,909 - INFO - Echo server listening on localhost:65432
+2025-03-11 21:50:50,580 - INFO - Connected by ('127.0.0.1', 56660)
+2025-03-11 21:50:50,580 - INFO - Received: Hello, Server!
+2025-03-11 21:50:54,063 - INFO - SNTP Time: Tue Mar 11 21:50:57 2025
+2025-03-11 21:50:58,739 - INFO - Chat Server started on localhost:65432
+2025-03-11 21:51:00,261 - INFO - Connected to chat server
+2025-03-11 21:51:00,261 - INFO - Connected by ('127.0.0.1', 56706)
+2025-03-11 21:53:19,735 - INFO - Chat Server started on localhost:65432
+2025-03-11 21:53:54,112 - INFO - Connected to chat server
+2025-03-11 21:53:54,112 - INFO - Connected to ('127.0.0.1', 56848)
+2025-03-11 21:54:11,278 - ERROR - Chat client error: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-03-11 21:56:11,555 - INFO - Chat Server started on localhost:65432
+2025-03-11 21:57:09,736 - INFO - Connected to chat server
+2025-03-11 21:57:09,737 - INFO - Connected to ('127.0.0.1', 56863)
+2025-03-11 21:57:18,471 - ERROR - Chat server is already running!
+2025-03-11 21:58:20,672 - ERROR - Chat receive error: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-03-11 21:59:10,266 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-11 21:59:24,497 - INFO - Connected to chat server
+ 56870)
+2025-03-11 21:59:29,326 - INFO - Client: Sa
+2025-03-11 21:59:29,326 - INFO - Client: Sa
+2025-03-11 21:59:39,681 - INFO - Server: as
+2025-03-11 21:59:39,682 - INFO - Server: as
+2025-03-11 21:59:51,942 - INFO - Server: exit
+2025-03-11 21:59:51,942 - INFO - Server: exit
+2025-03-11 21:59:51,944 - INFO - Chat terminated by server
+2025-03-11 21:59:51,949 - INFO - Chat terminated by server
+2025-03-11 21:59:51,951 - ERROR - Chat receive error: [WinError 10053] Kurulan bir baðlantý, ana makinenizdeki yazýlým tarafýndan iptal edildi
+2025-03-11 22:01:20,051 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-11 22:01:32,128 - INFO - Connected to chat server
+2025-03-11 22:01:32,128 - INFO - Connected to ('127.0.0.1', 56875)
+2025-03-11 22:01:36,574 - INFO - Client: Sa
+2025-03-11 22:01:36,574 - INFO - Client: Sa
+2025-03-11 22:01:42,660 - INFO - Server: as
+2025-03-11 22:01:42,661 - INFO - Server: as
+2025-03-11 22:01:44,806 - INFO - Server: exit
+2025-03-11 22:01:44,806 - INFO - Chat terminated by Server
+2025-03-11 22:01:44,807 - INFO - Chat terminated
+2025-03-11 22:01:44,809 - ERROR - Chat receive error: [WinError 10053] Kurulan bir baðlantý, ana makinenizdeki yazýlým tarafýndan iptal edildi
+2025-03-11 22:01:47,757 - ERROR - Chat is not active! Start server or client first.
+2025-03-11 22:02:10,440 - INFO - Host name: Yabangülü
+2025-03-11 22:02:10,442 - INFO - IP address: 192.168.1.22
+2025-03-11 22:02:11,924 - INFO - Echo server listening on localhost:65432
+2025-03-11 22:02:14,436 - INFO - Connected by ('127.0.0.1', 56891)
+2025-03-11 22:02:14,438 - INFO - Received: Hello, Server!
+2025-03-11 22:02:17,389 - INFO - SNTP Time: Tue Mar 11 22:02:21 2025
+2025-03-11 22:04:00,571 - INFO - Host name: Yabangülü
+2025-03-11 22:04:00,574 - INFO - IP address: 192.168.1.22
+2025-03-11 22:04:46,581 - ERROR - Chat is not active! Start server or client first.
+2025-03-11 22:04:47,556 - ERROR - Chat is not active! Start server or client first.
+2025-03-11 22:30:51,750 - INFO - Host name: Yabangülü
+2025-03-11 22:30:51,755 - INFO - IP address: 192.168.1.22
+2025-03-11 22:36:57,171 - INFO - Host name: Yabangülü
+2025-03-11 22:36:58,264 - INFO - Host name: Yabangülü
+2025-03-11 22:37:00,669 - INFO - Echo server listening on localhost:65432
+2025-03-11 22:37:01,397 - INFO - Connected by ('127.0.0.1', 58308)
+2025-03-11 22:37:01,397 - INFO - Received: Echo: Hello!
+2025-03-11 22:37:05,804 - INFO - SNTP Time: Tue Mar 11 22:37:09 2025
+2025-03-11 22:38:22,515 - INFO - Host name: Yabangülü
+2025-03-11 22:38:22,515 - INFO - Ip Adresses: 192.168.1.22
+2025-03-11 22:38:24,705 - INFO - Echo server listening on localhost:65432
+2025-03-11 22:38:26,171 - INFO - Connected by ('127.0.0.1', 58457)
+2025-03-11 22:38:26,171 - INFO - Received: Echo: Hello!
+2025-03-11 22:40:22,429 - INFO - Host name: Yabangülü
+2025-03-11 22:40:22,429 - INFO - Ip Adresses: 192.168.1.22
+2025-03-11 22:40:26,271 - INFO - Echo server listening on localhost:65432
+2025-03-11 22:40:27,194 - INFO - Connected by ('127.0.0.1', 58617)
+2025-03-11 22:40:27,194 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-11 22:40:34,438 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-11 22:40:37,427 - ERROR - Chat is not active! Start server or client first.
+2025-03-11 22:40:39,881 - ERROR - Chat client is already running!
+2025-03-11 22:40:42,871 - ERROR - Chat is not active! Start server or client first.
+2025-03-11 22:45:32,707 - INFO - Host name: Yabangülü
+2025-03-11 22:45:32,707 - INFO - Ip Adresses: 192.168.1.22
+2025-03-12 21:34:14,345 - INFO - Host name: Yabangülü
+2025-03-12 21:34:14,345 - INFO - IP Address: 192.168.1.22
+2025-03-12 21:34:14,345 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-12 21:34:14,345 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-12 21:34:26,715 - INFO - Echo server listening on localhost:65432
+2025-03-12 21:34:28,062 - INFO - Connected by ('127.0.0.1', 58593)
+2025-03-12 21:34:28,062 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-12 21:34:31,255 - INFO - SNTP Time: Wed Mar 12 21:34:36 2025
+2025-03-12 21:34:32,467 - INFO - Send Buffer size [Before]: 65536
+2025-03-12 21:34:32,483 - INFO - Receive Buffer size [Before]: 65536
+2025-03-12 21:34:32,483 - INFO - Send Buffer size [After]: 4096
+2025-03-12 21:34:32,488 - INFO - Receive Buffer size [After]: 2048
+2025-03-12 21:34:39,616 - INFO - Port: 80 => Service name: http
+2025-03-12 21:34:39,616 - INFO - Port: 25 => Service name: smtp
+2025-03-12 21:34:39,627 - INFO - Port: 53 => Service name: domain
+2025-03-12 21:34:42,810 - INFO - Remote IP address of www.python.org: 151.101.128.223
+2025-03-12 21:34:47,564 - INFO - Default socket timeout: None
+2025-03-12 21:34:47,564 - INFO - Current socket timeout: 100.0
+2025-03-12 21:35:49,318 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-12 21:36:20,777 - INFO - Connected to chat server
+2025-03-12 21:36:20,777 - INFO - Connected to ('127.0.0.1', 58619)
+2025-03-12 21:36:33,966 - INFO - Server: Sa
+2025-03-12 21:36:33,966 - INFO - Server: Sa
+2025-03-12 21:36:37,395 - INFO - Client: As
+2025-03-12 21:36:37,395 - INFO - Client: As
+2025-03-12 21:36:53,970 - INFO - Remote IP address of www.python.org: 151.101.64.223
+2025-03-12 21:36:57,641 - ERROR - Chat receive error: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-03-12 21:41:26,537 - ERROR - Uygulama hatasý: name 'ThreadPoolExecutor' is not defined
+2025-03-12 21:41:30,665 - ERROR - Uygulama hatasý: name 'ThreadPoolExecutor' is not defined
+2025-03-12 21:41:43,496 - ERROR - Uygulama hatasý: name 'ThreadPoolExecutor' is not defined
+2025-03-13 14:13:24,596 - INFO - Host name: Yabangülü
+2025-03-13 14:13:24,598 - INFO - IP Address: 10.30.6.150
+2025-03-13 14:13:24,599 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-13 14:13:24,601 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-13 14:13:29,686 - INFO - Echo server listening on localhost:65432
+2025-03-13 14:13:30,645 - INFO - Connected by ('127.0.0.1', 53760)
+2025-03-13 14:13:30,647 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-13 14:13:33,821 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-13 14:13:37,104 - ERROR - Chat client is already running!
+2025-03-13 14:13:40,074 - ERROR - Chat is not active! Start server or client first.
+2025-03-13 14:13:44,335 - INFO - Send Buffer size [Before]: 65536
+2025-03-13 14:13:44,338 - INFO - Receive Buffer size [Before]: 65536
+2025-03-13 14:13:44,342 - INFO - Send Buffer size [After]: 4096
+2025-03-13 14:13:44,345 - INFO - Receive Buffer size [After]: 2048
+2025-03-13 14:13:46,871 - INFO - Port: 80 => Service name: http
+2025-03-13 14:13:46,874 - INFO - Port: 25 => Service name: smtp
+2025-03-13 14:13:46,878 - INFO - Port: 53 => Service name: domain
+2025-03-13 14:13:48,537 - INFO - Remote IP address of www.python.org: 151.101.64.223
+2025-03-13 14:13:49,396 - INFO - Default socket timeout: None
+2025-03-13 14:13:49,399 - INFO - Current socket timeout: 100.0
+2025-03-13 14:16:54,657 - INFO - Host name: Yabangülü
+2025-03-13 14:16:54,659 - INFO - IP Address: 10.30.6.150
+2025-03-13 14:16:54,660 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-13 14:16:54,662 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-13 14:16:57,877 - INFO - Echo server listening on localhost:65432
+2025-03-13 14:16:58,871 - INFO - Connected by ('127.0.0.1', 53776)
+2025-03-13 14:16:58,873 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-13 14:19:59,968 - INFO - Echo server listening on localhost:65432
+2025-03-13 14:20:01,750 - INFO - Connected by ('127.0.0.1', 53804)
+2025-03-13 14:20:01,751 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-13 14:20:13,672 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-13 14:20:16,740 - INFO - Connected to chat server
+2025-03-13 14:20:16,740 - INFO - Connected to ('127.0.0.1', 53806)
+2025-03-13 14:20:20,076 - INFO - Server: Sa
+2025-03-13 14:20:20,077 - INFO - Server: Sa
+2025-03-13 14:20:24,845 - INFO - Client: As
+2025-03-13 14:20:24,845 - INFO - Client: As
+2025-03-13 14:20:30,679 - INFO - SNTP Time: Thu Mar 13 14:20:31 2025
+2025-03-13 14:21:24,389 - INFO - Server: exit
+2025-03-13 14:21:24,389 - INFO - Chat terminated by Server
+2025-03-13 14:21:24,390 - INFO - Chat terminated
+2025-03-13 14:21:28,172 - ERROR - Chat is not active! Start server or client first.
+2025-03-14 20:43:30,609 - INFO - Host name: Yabangülü
+2025-03-14 20:43:30,612 - INFO - IP Address: 192.168.1.22
+2025-03-14 20:43:30,615 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-14 20:43:30,618 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-14 20:43:37,096 - INFO - SNTP Time: Fri Mar 14 20:43:37 2025
+2025-03-14 20:43:40,975 - INFO - Port: 80 => Service name: http
+2025-03-14 20:43:40,978 - INFO - Port: 25 => Service name: smtp
+2025-03-14 20:43:40,980 - INFO - Port: 53 => Service name: domain
+2025-03-14 20:43:45,921 - INFO - Port: 80 => Service name: http
+2025-03-14 20:43:45,925 - INFO - Port: 25 => Service name: smtp
+2025-03-14 20:43:45,928 - INFO - Port: 53 => Service name: domain
+2025-03-14 20:43:48,027 - INFO - Remote IP address of www.python.org: 151.101.128.223
+2025-03-14 20:43:52,734 - INFO - Default socket timeout: None
+2025-03-14 20:43:52,734 - INFO - Current socket timeout: 100.0
+2025-03-17 20:15:26,549 - INFO - Host name: Yabangülü
+2025-03-17 20:15:26,551 - INFO - IP Address: 192.168.1.22
+2025-03-17 20:15:26,553 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-17 20:15:26,554 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-17 20:15:26,907 - INFO - Echo server listening on localhost:65432
+2025-03-17 20:15:27,217 - INFO - Connected by ('127.0.0.1', 55118)
+2025-03-17 20:15:27,219 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-17 20:15:27,584 - INFO - SNTP Time: Mon Mar 17 20:15:26 2025
+2025-03-17 20:15:27,809 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-17 20:15:28,445 - ERROR - Chat client is already running!
+2025-03-17 20:15:28,806 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 20:15:28,809 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 20:15:28,812 - INFO - Send Buffer size [After]: 4096
+2025-03-17 20:15:28,813 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 20:16:31,648 - INFO - Host name: Yabangülü
+2025-03-17 20:16:31,649 - INFO - IP Address: 192.168.1.22
+2025-03-17 20:16:31,651 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-17 20:16:31,652 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-17 21:54:18,769 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 21:54:18,769 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 21:54:18,773 - INFO - Send Buffer size [After]: 4096
+2025-03-17 21:54:18,773 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 21:54:36,838 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 21:54:36,838 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 21:54:36,838 - INFO - Send Buffer size [After]: 2048
+2025-03-17 21:54:36,838 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 21:54:44,619 - INFO - Remote IP address of www.python.org: 151.101.0.223
+2025-03-17 21:54:46,107 - INFO - Port: 80 => Service name: http
+2025-03-17 21:54:46,108 - INFO - Port: 25 => Service name: smtp
+2025-03-17 21:54:46,108 - INFO - Port: 53 => Service name: domain
+2025-03-17 21:54:47,519 - INFO - Default socket timeout: None
+2025-03-17 21:54:47,523 - INFO - Current socket timeout: 2.0
+2025-03-17 21:54:49,818 - INFO - Host name: Yabangülü
+2025-03-17 21:54:49,818 - INFO - IP Address: 192.168.1.22
+2025-03-17 21:54:49,824 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-17 21:54:49,824 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-17 21:55:01,895 - INFO - Default socket timeout: None
+2025-03-17 21:55:01,899 - INFO - Current socket timeout: 2.0
+2025-03-17 21:55:31,858 - INFO - Default socket timeout: None
+2025-03-17 21:55:31,863 - INFO - Current socket timeout: 2.0
+2025-03-17 21:55:37,242 - INFO - Default socket timeout: None
+2025-03-17 21:55:37,242 - INFO - Current socket timeout: 2.0
+2025-03-17 21:56:07,328 - INFO - Default socket timeout: None
+2025-03-17 21:56:07,328 - INFO - Current socket timeout: 1.0
+2025-03-17 21:56:11,298 - INFO - Default socket timeout: None
+2025-03-17 21:56:11,298 - INFO - Current socket timeout: 1.0
+2025-03-17 21:56:15,198 - INFO - Host name: Yabangülü
+2025-03-17 21:56:15,203 - INFO - IP Address: 192.168.1.22
+2025-03-17 21:56:15,203 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-17 21:56:15,208 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-17 21:56:17,679 - INFO - Echo server listening on localhost:65432
+2025-03-17 21:56:18,306 - INFO - Connected by ('127.0.0.1', 58456)
+2025-03-17 21:56:18,308 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-17 21:56:26,088 - INFO - SNTP Time: Mon Mar 17 21:56:25 2025
+2025-03-17 21:56:30,208 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-17 21:56:31,619 - ERROR - Chat client is already running!
+2025-03-17 21:56:34,760 - ERROR - Chat is not active! Start server or client first.
+2025-03-17 21:56:41,444 - ERROR - Chat is not active! Start server or client first.
+2025-03-17 21:56:46,789 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 21:56:46,798 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 21:56:46,798 - INFO - Send Buffer size [After]: 4096
+2025-03-17 21:56:46,802 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 21:56:50,289 - ERROR - Chat is not active! Start server or client first.
+2025-03-17 21:56:52,097 - ERROR - Chat is not active! Start server or client first.
+2025-03-17 21:56:55,818 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 21:56:55,826 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 21:56:55,826 - INFO - Send Buffer size [After]: 4096
+2025-03-17 21:56:55,826 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 21:57:03,290 - INFO - Remote IP address of www.python.org: 151.101.0.223
+2025-03-17 21:57:06,368 - INFO - Default socket timeout: None
+2025-03-17 21:57:06,368 - INFO - Current socket timeout: 1.0
+2025-03-17 21:59:23,188 - INFO - Port: 80 => Service name: http
+2025-03-17 21:59:23,194 - INFO - Port: 25 => Service name: smtp
+2025-03-17 21:59:23,194 - INFO - Port: 53 => Service name: domain
+2025-03-17 21:59:41,625 - INFO - Remote IP address of www.python.org: 151.101.128.223
+2025-03-17 21:59:59,612 - INFO - Host name: Yabangülü
+2025-03-17 21:59:59,612 - INFO - IP Address: 192.168.1.22
+2025-03-17 21:59:59,612 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-17 21:59:59,619 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-17 22:00:03,278 - INFO - Echo server listening on localhost:65432
+2025-03-17 22:00:45,479 - INFO - Connected by ('127.0.0.1', 58479)
+2025-03-17 22:00:45,479 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-17 22:00:58,084 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-17 22:00:59,429 - INFO - Connected to chat server
+2025-03-17 22:00:59,429 - INFO - Connected to ('127.0.0.1', 58481)
+2025-03-17 22:01:02,426 - INFO - Server: Sa
+2025-03-17 22:01:04,849 - INFO - Client: As
+2025-03-17 22:01:04,849 - INFO - Client: As
+2025-03-17 22:01:11,648 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:01:11,658 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:01:11,658 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:01:11,662 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:01:13,342 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:01:13,342 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:01:13,342 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:01:13,342 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:01:15,368 - INFO - Server: exit
+2025-03-17 22:01:15,368 - INFO - Chat terminated by Server
+2025-03-17 22:01:15,368 - INFO - Chat terminated
+2025-03-17 22:01:17,978 - ERROR - Chat is not active! Start server or client first.
+2025-03-17 22:06:34,851 - INFO - SNTP Time: Mon Mar 17 22:06:34 2025
+2025-03-17 22:06:41,770 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:06:41,770 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:06:41,770 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:06:41,778 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:06:50,358 - INFO - Default socket timeout: None
+2025-03-17 22:06:50,360 - INFO - Current socket timeout: 1.0
+2025-03-17 22:06:55,788 - INFO - Default socket timeout: None
+2025-03-17 22:06:55,792 - INFO - Current socket timeout: 1.0
+2025-03-17 22:07:05,639 - INFO - Host name: Yabangülü
+2025-03-17 22:07:05,648 - INFO - IP Address: 192.168.1.22
+2025-03-17 22:07:05,651 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-17 22:07:05,651 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-17 22:12:38,251 - ERROR - Application error: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2025-03-17 22:12:46,494 - ERROR - Application error: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2025-03-17 22:13:10,779 - ERROR - Application error: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2025-03-17 22:13:22,271 - ERROR - Application error: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2025-03-17 22:13:26,568 - ERROR - Application error: name 'buttons' is not defined
+2025-03-17 22:13:36,529 - ERROR - Application error: name 'buttons' is not defined
+2025-03-17 22:13:49,038 - ERROR - Application error: name 'buttons' is not defined
+2025-03-17 22:15:22,691 - ERROR - Application error: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2025-03-17 22:15:40,602 - ERROR - Application error: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2025-03-17 22:15:53,238 - ERROR - Application error: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2025-03-17 22:16:41,448 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:16:41,448 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:16:41,448 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:16:41,448 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:16:48,728 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:16:48,728 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:16:48,728 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:16:48,728 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:17:16,918 - INFO - Default socket timeout: None
+2025-03-17 22:17:16,918 - INFO - Current socket timeout: 2.0
+2025-03-17 22:17:24,980 - INFO - Default socket timeout: None
+2025-03-17 22:17:24,980 - INFO - Current socket timeout: 1.0
+2025-03-17 22:20:35,795 - INFO - Settings updated and saved successfully!
+2025-03-17 22:20:35,798 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:20:35,798 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:20:35,798 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:20:35,798 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:20:37,631 - INFO - Settings updated and saved successfully!
+2025-03-17 22:20:37,638 - INFO - Default socket timeout: None
+2025-03-17 22:20:37,640 - INFO - Current socket timeout: 1.0
+2025-03-17 22:20:45,468 - INFO - Settings updated and saved successfully!
+2025-03-17 22:20:45,468 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:20:45,472 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:20:45,476 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:20:45,478 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:20:46,994 - INFO - Settings updated and saved successfully!
+2025-03-17 22:20:46,994 - INFO - Default socket timeout: None
+2025-03-17 22:20:47,000 - INFO - Current socket timeout: 2.0
+2025-03-17 22:21:04,038 - INFO - Settings updated and saved successfully!
+2025-03-17 22:21:04,048 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:21:04,048 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:21:04,052 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:21:04,052 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:21:08,898 - INFO - Settings updated and saved successfully!
+2025-03-17 22:21:08,898 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:21:08,908 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:21:08,910 - INFO - Send Buffer size [After]: 2048
+2025-03-17 22:21:08,910 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:21:16,662 - INFO - Settings updated and saved successfully!
+2025-03-17 22:21:16,668 - INFO - Default socket timeout: None
+2025-03-17 22:21:16,668 - INFO - Current socket timeout: 1.0
+2025-03-17 22:21:22,232 - INFO - Settings updated and saved successfully!
+2025-03-17 22:21:22,234 - INFO - Default socket timeout: None
+2025-03-17 22:21:22,238 - INFO - Current socket timeout: 1.0
+2025-03-17 22:21:36,928 - INFO - Settings updated and saved successfully!
+2025-03-17 22:21:36,928 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:21:36,932 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:21:36,932 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:21:36,932 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:21:42,938 - INFO - Settings updated and saved successfully!
+2025-03-17 22:21:42,938 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:21:42,938 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:21:42,938 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:21:42,938 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:21:47,698 - INFO - Settings updated and saved successfully!
+2025-03-17 22:21:48,704 - INFO - Settings updated and saved successfully!
+2025-03-17 22:21:48,960 - INFO - Settings updated and saved successfully!
+2025-03-17 22:21:49,288 - INFO - Settings updated and saved successfully!
+2025-03-17 22:48:28,668 - INFO - Settings updated and saved successfully!
+2025-03-17 22:48:28,681 - INFO - Host name: Yabangülü
+2025-03-17 22:48:28,681 - INFO - IP Address: 192.168.1.22
+2025-03-17 22:48:28,681 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-17 22:48:28,681 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-17 22:48:40,328 - INFO - Settings updated and saved successfully!
+2025-03-17 22:48:40,444 - INFO - SNTP Time: Mon Mar 17 22:48:39 2025
+2025-03-17 22:48:44,248 - INFO - Settings updated and saved successfully!
+2025-03-17 22:48:44,344 - INFO - SNTP Time: Mon Mar 17 22:48:43 2025
+2025-03-17 22:48:48,441 - INFO - Settings updated and saved successfully!
+2025-03-17 22:48:48,537 - INFO - SNTP Time: Mon Mar 17 22:48:47 2025
+2025-03-17 22:48:51,963 - INFO - Settings updated and saved successfully!
+2025-03-17 22:48:51,971 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:48:51,975 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:48:51,975 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:48:51,975 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:48:54,258 - INFO - Settings updated and saved successfully!
+2025-03-17 22:48:54,258 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:48:54,258 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:48:54,258 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:48:54,273 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:50:25,162 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:25,167 - INFO - Default socket timeout: None
+2025-03-17 22:50:25,169 - INFO - Current socket timeout: 1.0
+2025-03-17 22:50:26,707 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:27,810 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:29,394 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:29,394 - INFO - Host name: Yabangülü
+2025-03-17 22:50:29,394 - INFO - IP Address: 192.168.1.22
+2025-03-17 22:50:29,410 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-17 22:50:29,410 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-17 22:50:45,987 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:45,987 - INFO - Host name: Yabangülü
+2025-03-17 22:50:46,003 - INFO - IP Address: 192.168.1.22
+2025-03-17 22:50:46,003 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-17 22:50:46,003 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-17 22:50:49,328 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:49,344 - INFO - Send Buffer size [Before]: 65536
+2025-03-17 22:50:49,344 - INFO - Receive Buffer size [Before]: 65536
+2025-03-17 22:50:49,344 - INFO - Send Buffer size [After]: 4096
+2025-03-17 22:50:49,360 - INFO - Receive Buffer size [After]: 2048
+2025-03-17 22:50:50,740 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:50,756 - INFO - Default socket timeout: None
+2025-03-17 22:50:50,756 - INFO - Current socket timeout: 1.0
+2025-03-17 22:50:52,413 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:53,180 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:59,208 - INFO - Settings updated and saved successfully!
+2025-03-17 22:50:59,223 - INFO - Echo server listening on localhost:65432
+2025-03-18 12:55:26,656 - INFO - Settings updated and saved successfully!
+2025-03-18 12:55:26,663 - INFO - Send Buffer size [Before]: 65536
+2025-03-18 12:55:26,663 - INFO - Receive Buffer size [Before]: 65536
+2025-03-18 12:55:26,663 - INFO - Send Buffer size [After]: 2048
+2025-03-18 12:55:26,663 - INFO - Receive Buffer size [After]: 2048
+2025-03-18 12:55:43,269 - INFO - Settings updated and saved successfully!
+2025-03-18 12:55:43,301 - INFO - Host name: Yabangülü
+2025-03-18 12:55:43,314 - INFO - IP Address: 10.30.6.150
+2025-03-18 12:55:43,316 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-18 12:55:43,318 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-18 12:55:52,569 - INFO - Settings updated and saved successfully!
+2025-03-18 12:55:52,649 - INFO - SNTP Time: Tue Mar 18 12:55:51 2025
+2025-03-18 12:55:58,001 - INFO - Settings updated and saved successfully!
+2025-03-18 12:55:58,013 - INFO - Default socket timeout: None
+2025-03-18 12:55:58,013 - INFO - Current socket timeout: 1.0
+2025-03-18 12:56:12,135 - INFO - Settings updated and saved successfully!
+2025-03-18 12:56:14,574 - INFO - Settings updated and saved successfully!
+2025-03-18 19:42:22,015 - ERROR - Application error: 'NetworkToolkitGUI' object has no attribute 'on_closing'
+2025-03-18 19:43:24,621 - INFO - Settings updated and saved successfully!
+2025-03-18 19:43:26,040 - INFO - Settings updated and saved successfully!
+2025-03-18 19:44:48,287 - INFO - Settings updated and saved successfully!
+2025-03-18 19:44:48,431 - INFO - Response received from: ('131.111.8.61', 123)
+2025-03-18 19:44:48,447 - INFO - SNTP Time: Tue Mar 18 19:44:47 2025
+2025-03-18 19:44:55,050 - INFO - Settings updated and saved successfully!
+2025-03-18 19:44:55,065 - INFO - Host name: Yabangülü
+2025-03-18 19:44:55,081 - INFO - IP Address: 192.168.1.22
+2025-03-18 19:44:55,081 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-18 19:44:55,081 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-18 19:46:20,655 - INFO - Settings updated and saved successfully!
+2025-03-18 19:46:20,751 - INFO - Response received from: ('131.111.8.61', 123)
+2025-03-18 19:46:20,767 - INFO - SNTP Time: Tue Mar 18 19:46:20 2025
+2025-03-18 19:48:10,324 - INFO - Settings updated and saved successfully!
+2025-03-18 19:48:10,470 - INFO - Response received from: ('81.130.79.209', 123)
+2025-03-18 19:48:10,481 - INFO - SNTP Time: Tue Mar 18 19:48:09 2025
+2025-03-18 20:44:44,448 - INFO - Settings updated and saved successfully!
+2025-03-18 20:44:44,468 - INFO - Host name: Yabangülü
+2025-03-18 20:44:44,475 - INFO - IP Address: 192.168.1.22
+2025-03-18 20:44:44,478 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-18 20:44:44,480 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-18 20:44:50,330 - INFO - Settings updated and saved successfully!
+2025-03-18 20:44:50,333 - INFO - Echo server listening on localhost:65432
+2025-03-18 20:46:43,329 - INFO - Host name: Yabangülü
+2025-03-18 20:46:43,329 - INFO - IP Address: 192.168.1.22
+2025-03-18 20:46:43,329 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-18 20:46:43,337 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-18 20:46:44,638 - INFO - Echo server listening on localhost:65432
+2025-03-18 20:46:53,198 - INFO - Settings updated and saved successfully!
+2025-03-18 20:46:53,198 - INFO - Send Buffer size [Before]: 65536
+2025-03-18 20:46:53,207 - INFO - Receive Buffer size [Before]: 65536
+2025-03-18 20:46:53,207 - INFO - Send Buffer size [After]: 4096
+2025-03-18 20:46:53,207 - INFO - Receive Buffer size [After]: 2048
+2025-03-18 20:46:56,497 - INFO - Connected by ('127.0.0.1', 50757)
+2025-03-18 20:46:56,497 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-18 20:46:58,743 - INFO - Response received from: ('176.58.109.199', 123)
+2025-03-18 20:46:58,748 - INFO - SNTP Time: Tue Mar 18 20:46:57 2025
+2025-03-18 20:47:09,908 - INFO - Default socket timeout: None
+2025-03-18 20:47:09,910 - INFO - Current socket timeout: 1.0
+2025-03-18 20:47:16,023 - INFO - Settings updated and saved successfully!
+2025-03-18 20:47:16,023 - INFO - Send Buffer size [Before]: 65536
+2025-03-18 20:47:16,027 - INFO - Receive Buffer size [Before]: 65536
+2025-03-18 20:47:16,027 - INFO - Send Buffer size [After]: 4096
+2025-03-18 20:47:16,027 - INFO - Receive Buffer size [After]: 2048
+2025-03-18 20:47:17,679 - INFO - Default socket timeout: None
+2025-03-18 20:47:17,679 - INFO - Current socket timeout: 1.0
+2025-03-18 20:49:23,628 - INFO - Echo server listening on localhost:65432
+2025-03-18 20:49:24,632 - ERROR - Echo server error: timed out
+2025-03-18 20:49:27,911 - ERROR - Connection error: timed out
+2025-03-18 20:49:34,538 - INFO - Settings updated and saved successfully!
+2025-03-18 20:49:34,538 - INFO - Echo server listening on localhost:65432
+2025-03-18 20:49:38,998 - ERROR - Cannot start client while server is active! Stop server first.
+2025-03-18 20:50:16,937 - ERROR - Connection error: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-03-18 20:50:30,211 - ERROR - Echo server error: [WinError 10048] Normal olarak her yuva adresi (iletiþim kuralý/að adresi/baðlantý noktasý) için yalnýzca bir kullanýma izin veriliyor
+2025-03-18 20:50:33,619 - ERROR - Echo server error: [WinError 10048] Normal olarak her yuva adresi (iletiþim kuralý/að adresi/baðlantý noktasý) için yalnýzca bir kullanýma izin veriliyor
+2025-03-18 20:51:14,208 - INFO - Echo server listening on localhost:65432
+2025-03-18 20:51:17,862 - ERROR - Connection error: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý
+2025-03-18 20:53:14,367 - INFO - Echo server listening on localhost:65432
+2025-03-18 20:53:15,858 - ERROR - Cannot start client while server is active! Stop server first.
+2025-03-18 20:53:27,517 - INFO - Connected to localhost:65432
+2025-03-18 20:53:27,517 - INFO - Connected by ('127.0.0.1', 50822)
+2025-03-18 20:53:27,517 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-18 20:53:38,023 - INFO - Host name: Yabangülü
+2025-03-18 20:53:38,027 - INFO - IP Address: 192.168.1.22
+2025-03-18 20:53:38,027 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-18 20:53:38,027 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-18 20:53:39,438 - INFO - Host name: Yabangülü
+2025-03-18 20:53:39,438 - INFO - IP Address: 192.168.1.22
+2025-03-18 20:53:39,438 - INFO - IP Address: 127.0.0.1 => Packed: 7f000001, Unpacked: 127.0.0.1
+2025-03-18 20:53:39,438 - INFO - IP Address: 192.168.0.1 => Packed: c0a80001, Unpacked: 192.168.0.1
+2025-03-18 20:53:43,897 - INFO - Echo server listening on localhost:65432
+2025-03-18 20:53:46,447 - INFO - Connected to localhost:65432
+2025-03-18 20:53:46,454 - INFO - Connected by ('127.0.0.1', 50823)
+2025-03-18 20:53:46,454 - INFO - Received: Echo: Hello This is the first Project!
+2025-03-18 20:53:49,428 - INFO - Response received from: ('88.80.189.24', 123)
+2025-03-18 20:53:49,438 - INFO - SNTP Time: Tue Mar 18 20:53:48 2025
+2025-03-18 20:53:51,239 - INFO - Response received from: ('88.80.189.24', 123)
+2025-03-18 20:53:51,239 - INFO - SNTP Time: Tue Mar 18 20:53:49 2025
+2025-03-18 20:53:53,268 - INFO - Chat Server started on localhost:65432, waiting for client...
+2025-03-18 20:53:54,727 - INFO - Connected to chat server
+2025-03-18 20:53:54,727 - INFO - Connected to ('127.0.0.1', 50824)
+2025-03-18 20:53:59,533 - INFO - Server: Selam
+2025-03-18 20:53:59,533 - INFO - Server: Selam
+2025-03-18 20:54:02,908 - INFO - Server: exit
+2025-03-18 20:54:02,908 - INFO - Chat terminated by Server
+2025-03-18 20:54:02,908 - INFO - Chat terminated
+2025-03-18 20:54:06,397 - INFO - Send Buffer size [Before]: 65536
+2025-03-18 20:54:06,397 - INFO - Receive Buffer size [Before]: 65536
+2025-03-18 20:54:06,404 - INFO - Send Buffer size [After]: 4096
+2025-03-18 20:54:06,407 - INFO - Receive Buffer size [After]: 2048
+2025-03-18 20:54:07,598 - INFO - Default socket timeout: None
+2025-03-18 20:54:07,607 - INFO - Current socket timeout: 1.0
+2025-03-18 21:26:49,677 - INFO - Connecting to localhost port 9900
+2025-03-18 21:26:49,684 - INFO - Sending Test message. This will be echoed
+2025-03-18 21:26:49,687 - INFO - Received: Test message. Th
+2025-03-18 21:26:49,687 - INFO - Received: is will be echoe
+2025-03-18 21:26:49,697 - INFO - Received: d
+2025-03-18 21:26:49,700 - INFO - Closing connection to the server
+2025-03-18 21:27:10,094 - INFO - Connecting to localhost port 9900
+2025-03-18 21:27:10,097 - INFO - Sending Test message. This will be echoed
+2025-03-18 21:27:10,097 - INFO - Received: Test message. Th
+2025-03-18 21:27:10,097 - INFO - Received: is will be echoe
+2025-03-18 21:27:10,097 - INFO - Received: d
+2025-03-18 21:27:10,109 - INFO - Closing connection to the server
+2025-03-18 21:28:21,233 - INFO - Connecting to localhost port 9900
+2025-03-18 21:28:21,237 - INFO - Sending Test message. This will be echoed
+2025-03-18 21:28:21,237 - INFO - Received: Test message. Th
+2025-03-18 21:28:21,237 - INFO - Received: is will be echoe
+2025-03-18 21:28:21,237 - INFO - Received: d
+2025-03-18 21:28:21,237 - INFO - Closing connection to the server
+2025-03-18 21:28:41,887 - INFO - Connecting to localhost port 9900
+2025-03-18 21:28:41,889 - INFO - Sending Test message. This will be echoed
+2025-03-18 21:28:41,897 - INFO - Received: Test message. Th
+2025-03-18 21:28:41,897 - INFO - Received: is will be echoe
+2025-03-18 21:28:41,900 - INFO - Received: d
+2025-03-18 21:28:41,900 - INFO - Closing connection to the server
+2025-03-18 21:28:44,821 - INFO - Connecting to localhost port 9900
+2025-03-18 21:28:44,821 - INFO - Sending Test message. This will be echoed
+2025-03-18 21:28:44,827 - INFO - Received: Test message. Th
+2025-03-18 21:28:44,827 - INFO - Received: is will be echoe
+2025-03-18 21:28:44,837 - INFO - Received: d
+2025-03-18 21:28:44,845 - INFO - Closing connection to the server
+2025-03-18 21:31:05,583 - INFO - Starting up echo server on localhost port 9900
+2025-03-18 21:31:05,590 - INFO - Waiting to receive message from client
+2025-03-18 21:31:07,660 - INFO - Data: Test message. This will be echoed
+2025-03-18 21:31:07,663 - INFO - Sent 33 bytes back to ('127.0.0.1', 51870)
+2025-03-18 21:31:07,667 - INFO - Waiting to receive message from client
+2025-03-18 21:32:44,017 - INFO - Starting up echo server on localhost port 9900
+2025-03-18 21:32:44,025 - INFO - Waiting to receive message from client
+2025-03-18 21:32:48,962 - INFO - Data: Test message. This will be echoed
+2025-03-18 21:32:48,962 - INFO - Sent 33 bytes back to ('127.0.0.1', 51884)
+2025-03-18 21:32:48,962 - INFO - Waiting to receive message from client
+2025-03-18 21:37:06,457 - INFO - Connecting to localhost port 9900
+2025-03-18 21:37:06,457 - INFO - Sending Test message. This will be echoed
+2025-03-18 21:37:06,467 - INFO - Received  message: Test message. This will be echoed
+2025-03-18 21:37:06,467 - INFO - Closing connection to the server
+2025-03-20 20:52:29,404 - INFO - Connecting to localhost port 9900
+2025-03-20 20:52:29,404 - INFO - Sending Test message. This will be echoed
+2025-03-20 20:52:29,414 - INFO - Received  message: Test message. This will be echoed
+2025-03-20 20:52:29,418 - INFO - Closing connection to the server
+2025-03-20 20:52:58,201 - INFO - Connected to chat server
+2025-03-20 20:53:04,555 - INFO - Server: Selamlar
+2025-03-20 20:53:09,323 - INFO - Client: Selamlar
+2025-03-20 20:53:29,659 - INFO - Chat terminated by Server

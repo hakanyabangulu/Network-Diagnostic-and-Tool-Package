@@ -1,0 +1,6 @@
+{
+    "is_blocking": true,
+    "send_buf_size": 4096,
+    "recv_buf_size": 2048,
+    "timeout": 1.0
+}
