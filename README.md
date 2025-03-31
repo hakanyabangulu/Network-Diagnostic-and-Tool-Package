@@ -19,8 +19,9 @@ The toolkit supports multiple network-related tasks such as:
 	Socket buffer size modification and timeout testing.
 
 	Theme switching (dark/light mode).
-	
+
 Features
+
 	Machine Information Module: Displays local hostname, IP address, and demonstrates IP packing/unpacking.,
 	
 	Echo Test Module: Implements TCP-based echo server and client for testing network communication.
@@ -38,12 +39,14 @@ Features
 	Logging: Logs activities and errors to a file (network_toolkit.log) and chat history to chat_history.txt.	
 
 Requirements
+
 	Python 3.x
 	Required libraries (install via pip):
 	tkinter (usually comes with Python)
 	No additional external libraries are required beyond the Python standard library.
 	
 Notes
+
 	The application uses a single port for both server and client operations in most modules. 
 	Ensure the port is free before starting a server.
 	
