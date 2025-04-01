@@ -54,4 +54,8 @@ Notes
 	
 	Errors and exceptions are logged to network_toolkit.log and displayed in the GUI.
 	
-	The application is multi-threaded using ThreadPoolExecutor to handle tasks without freezing the GUI.	
+	The application is multi-threaded using ThreadPoolExecutor to handle tasks without freezing the GUI.
+
+ When it works: 
+ 
+![Ekran görüntüsü 2025-04-01 144113](https://github.com/user-attachments/assets/52757845-69bc-4c97-aa4a-ac577e5a8353)
